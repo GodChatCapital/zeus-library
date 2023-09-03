@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/badge/npm-v1.0.0-brightgreen)](https://www.npmjs.com/package/zeus)
+[![npm](https://img.shields.io/badge/npm-v1.0.4-brightgreen)](https://www.npmjs.com/package/zeus)
 
 # Zeus
 
@@ -23,7 +23,7 @@ Zeus is an advanced data management solution combining blockchain, nanotech, Lar
 To install Zeus, use the following command:
 
 ```bash
-npm install zeus
+npm install zeus-library
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ The blockchain module is used for securely storing and retrieving data. Here's a
 Require Zeus
 
 ```javascript
-const zeus = require('zeus');
+const zeus = require('zeus-library');
 const data = { key: 'value' };
 const blockInfo = zeus.storeData(data);
 
@@ -84,7 +84,7 @@ The nanotech module is used to compact data before storage and decompact data du
 Require Zeus
 
 ```javascript
-const zeus = require('zeus');
+const zeus = require('zeus-library');
 const nano = zeus.Nanotech;
 ```
 
@@ -127,7 +127,7 @@ The LLM module offers advanced natural language processing capabilities, used to
 Require Zeus
 
 ```javascript
-const zeus = require('zeus');
+const zeus = require('zeus-library');
 const llm = zeus.LLM;
 ```
 
@@ -172,7 +172,7 @@ The AI module learns from user data access patterns and optimizes data storage:
 Require Zeus
 
 ```javascript
-const zeus = require('zeus');
+const zeus = require('zeus-library');
 const ai = zeus.AI;
 ```
 
@@ -215,7 +215,7 @@ The quantum module is used for complex data processing tasks:
 Require Zeus
 
 ```javascript
-const zeus = require('zeus');
+const zeus = require('zeus-library');
 const quantum = zeus.Quantum;
 ```
 

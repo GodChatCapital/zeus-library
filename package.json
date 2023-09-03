@@ -1,6 +1,6 @@
 {
-  "name": "zeus-js",
-  "version": "1.0.2",
+  "name": "zeus-library",
+  "version": "1.0.4",
   "description": "Zeus - a revolutionary solution for storing, managing, and securing your data with advanced technologies like blockchain, nanotech, Large Language Models (LLMs), AI, and quantum computing.",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GodChatCapital/zeus-js.git"
+    "url": "https://github.com/GodChatCapital/zeus-library.git"
   }
 }
