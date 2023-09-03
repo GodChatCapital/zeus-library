@@ -1,6 +1,17 @@
-[![npm](https://img.shields.io/badge/npm-v1.0.4-brightgreen)](https://www.npmjs.com/package/zeus)
+[![npm](https://img.shields.io/badge/npm-v1.0.5-brightgreen)](https://www.npmjs.com/package/zeus)
 
 # Zeus
+
+```bash
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╭╮
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃╱┃┃
+╭━━━┳━━┳╮╭┳━━╮╱╱┃┃╭┫╰━┳━┳━━┳━┳╮╱╭╮
+┣━━┃┃┃━┫┃┃┃━━╋━━┫┃┣┫╭╮┃╭┫╭╮┃╭┫┃╱┃┃
+┃┃━━┫┃━┫╰╯┣━━┣━━┫╰┫┃╰╯┃┃┃╭╮┃┃┃╰━╯┃
+╰━━━┻━━┻━━┻━━╯╱╱╰━┻┻━━┻╯╰╯╰┻╯╰━╮╭╯
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯
+```
 
 Zeus is an advanced data management solution combining blockchain, nanotech, Large Language Models (LLMs), AI, and quantum computing to offer unparalleled performance and security.
 

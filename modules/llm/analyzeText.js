@@ -1,3 +1,24 @@
+/*
+
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╭╮
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃╱┃┃
+╭━━━┳━━┳╮╭┳━━╮╱╱┃┃╭┫╰━┳━┳━━┳━┳╮╱╭╮
+┣━━┃┃┃━┫┃┃┃━━╋━━┫┃┣┫╭╮┃╭┫╭╮┃╭┫┃╱┃┃
+┃┃━━┫┃━┫╰╯┣━━┣━━┫╰┫┃╰╯┃┃┃╭╮┃┃┃╰━╯┃
+╰━━━┻━━┻━━┻━━╯╱╱╰━┻┻━━┻╯╰╯╰┻╯╰━╮╭╯
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯
+
+Zeus-library
+
+Zeus is an advanced data management solution combining blockchain, nanotech, Large Language Models (LLMs), AI, and quantum computing to offer unparalleled performance and security.
+
+https://www.npmjs.com/package/zeus-library
+
+https://github.com/godchatcapital/zeus-library
+
+*/
+
 const natural = require('natural');
 const ProcessLanguage = require('./processLanguage');
 const util = require('../util/util');
