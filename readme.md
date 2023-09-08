@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/badge/npm-v1.0.6-brightgreen)](https://www.npmjs.com/package/zeus)
+[![npm](https://img.shields.io/badge/npm-v1.0.7-brightgreen)](https://www.npmjs.com/package/zeus)
 
 # Zeus
 
