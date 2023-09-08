@@ -1,6 +1,6 @@
 {
   "name": "zeus-library",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Zeus - a revolutionary solution for storing, managing, and securing your data with advanced technologies like blockchain, nanotech, Large Language Models (LLMs), AI, and quantum computing.",
   "main": "index.js",
   "scripts": {
